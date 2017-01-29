@@ -1,4 +1,4 @@
 # vesta
 Smart Home Project
 
-Vesta was goddess of heart and home
+Vesta was goddess of hearth and home
